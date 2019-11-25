@@ -9,14 +9,12 @@ thislist = ["apple","banana","cherry"]
 print(thislist)
 
 #Access items
-
 print("\n"+thislist[1])
 
 #Negative Indexing
 #Negative indexing means beginning from the end,
 #-1 refers to the last item,
 #-2 refers to the second last item etc.
-
 print("\n"+thislist[-1])
 
 #Range of Indexes
@@ -176,7 +174,8 @@ print(thislist)
 
 
 #Different List Methods
-#======================
+#Python has a set of built-in methods that you can use on lists.
+#===============================================================
 #append()    Adds an element at the end of the list
 print("\n")
 thislist = ["apple","banana","cherry"]
